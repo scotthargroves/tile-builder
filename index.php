@@ -23,6 +23,7 @@
 	
 	<!-- BOOTSTRAP FRAMEWORK -->
 	<link href="https://s3.amazonaws.com/desk-wow/support-center/4/styles/main.css" rel="stylesheet"/>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 	
 	<!-- START CUSTOM JS TO MAKE THE TILES -->
 	<script type="text/javascript">
